@@ -1,0 +1,55 @@
+{
+ "a_targets": {
+  "n_dual_clean": 4608,
+  "ece_hard": 0.23671105101109585,
+  "ece_soft_votes": 0.23454091212220698,
+  "ece_soft_teacher_p": 0.2469291499694292,
+  "brier_hard": 0.2860233369704701,
+  "brier_soft_votes": 0.24460070910420198,
+  "brier_soft_teacher_p": 0.19911108388360882
+ },
+ "b_strata": {
+  "n_agree": 3856,
+  "n_split": 752,
+  "ece_agree": 0.21097703866227782,
+  "ece_split": 0.4059977435526695,
+  "auc_agree": 0.7051742857104418,
+  "auc_split": 0.5616540188942233,
+  "ece_diff_ci": [
+   0.13739043050073535,
+   0.24128927459894742
+  ]
+ },
+ "c_instance": {
+  "auroc_u_predicts_split_clean": 0.5172943037101616,
+  "auroc_u_predicts_split_all": 0.521620515380049,
+  "auroc_u_predicts_escalation_all": 0.5260245763108492,
+  "spearman_u_vs_pooledjudge_u_clean": [
+   0.03124430949498153,
+   0.03393220452777088
+  ],
+  "n_dual_all": 8578
+ },
+ "d_by_cell": {
+  "clean_shift": {
+   "n": 2120,
+   "disagree_rate": 0.07783018867924528
+  },
+  "contested": {
+   "n": 40,
+   "disagree_rate": 1.0
+  },
+  "continuation": {
+   "n": 3811,
+   "disagree_rate": 0.3106796116504854
+  },
+  "interruption": {
+   "n": 119,
+   "disagree_rate": 0.19327731092436976
+  },
+  "mid_thought": {
+   "n": 2488,
+   "disagree_rate": 0.23593247588424437
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "probs_fullset.json": {
+  "sha256": "5cd9288b5176c6df7d05a90aeba173c179769ac17bb8755e45a95491183c9422",
+  "bytes": 1329968
+ },
+ "probs_train.json": {
+  "sha256": "145545fc6ebf1d4ceb315da9ff4b1b991452a49bbf5530240b18f9078205e96e",
+  "bytes": 259863
+ },
+ "probs_test.json": {
+  "sha256": "725f205a68b4c5905abd8a8e9637c8a1faa5d2f1afe66594e13e83bc42b8c8fb",
+  "bytes": 155039
+ },
+ "probs_canonical.json": {
+  "sha256": "4ab071c2c9eebbb0ca42b48576ae5f5bcbca8e9a7af6c8f0d3740625de4ff64f",
+  "bytes": 414892
+ },
+ "corpus_frozen.json": {
+  "sha256": "d8e19959cdda250532cffd2fcc9abcaee88b7d6a772dc7812ad158cb5b11b8f3",
+  "bytes": 11806434
+ },
+ "alq_v3_human_gold.json": {
+  "sha256": "6db7d428a86ce966caee9cdc166943af71ef9586c103b1c8594a47d257c5f9b2",
+  "bytes": 460760
+ },
+ "chid_map.json": {
+  "sha256": "c42f65e57261815b83f9c29a34cc32fda2b79bdfd896ad0aac04b13e88af75c0",
+  "bytes": 251
+ }
+}
