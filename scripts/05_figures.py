@@ -135,8 +135,8 @@ def tab_cost(dec):
     rows = [
         ("Default $\\tau{=}0.5$", "default_0.5"),
         ("Re-threshold $\\tau{=}0.74$", "rethresh_0.74"),
-        ("Bayes $\\tau{=}c/(c{+}1)$, raw $p$", "bayes_raw"),
-        ("Bayes, temp.-scaled $p$", "bayes_calibrated"),
+        ("Bayes $\\tau{=}c/(c{+}1)$, raw $\\hat p$", "bayes_raw"),
+        ("Bayes, temp.-scaled $\\hat p$", "bayes_calibrated"),
         ("CRC $\\hat\\tau(\\alpha{=}0.1)$", "crc_placeholder"),
         ("Oracle threshold (test)", "oracle_test"),
     ]
