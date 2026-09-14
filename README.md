@@ -1,8 +1,8 @@
 # Calibration and Selective Prediction for Arabic End-of-Turn Detection
 
-Code and frozen analysis data for the UncertaiNLP 2026 submission
-*"Confidently Cutting the Caller Off: Calibration and Selective Prediction
-for Arabic End-of-Turn Detection"* (anonymous review copy).
+Code and frozen analysis data for the paper *"Confidently Cutting the Caller
+Off: Calibration and Selective Prediction for Arabic End-of-Turn Detection"*
+(Ahmed Younis, Minerva University; submitted to ICASSP 2027).
 
 Every number, table, and figure in the paper is computed by the scripts in
 this repository from `data/analysis_table.json`, a frozen per-turn-point
